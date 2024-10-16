@@ -45,6 +45,8 @@ list-style-type: square;
 .unordered-list ul li{
 color: white;
 }
-div{
-background-color: rgb(139, 0, 5);
+.button1 button{
+    border-radius:5px;
+    color: white;
+    background-color: blue;    
 }
