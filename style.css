@@ -50,3 +50,8 @@ color: white;
     color: white;
     background-color: blue;    
 }
+.button2 button{
+    border-radius:5px;
+    color: rgb(15, 11, 238);
+    background-color: rgb(226, 226, 244);    
+}
