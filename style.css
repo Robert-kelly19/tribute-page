@@ -45,6 +45,22 @@ list-style-type: square;
 .unordered-list ul li{
 color: white;
 }
-div{
-background-color: rgb(139, 0, 5);
+.button1 button{
+    border-radius:5px;
+    color: white;
+    background-color: blue;    
+}
+.button2 button{
+    border-radius:5px;
+    color: rgb(15, 11, 238);
+    background-color: rgb(226, 226, 244);    
+}
+.button3 button{
+    border-radius:5px;
+    color: white;
+    background-color: orange;}
+.button4 button{
+        border-radius:5px;
+        color: white;
+        background-color: green;     
 }
