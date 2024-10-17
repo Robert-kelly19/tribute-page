@@ -58,9 +58,5 @@ color: white;
 .button3 button{
     border-radius:5px;
     color: white;
-    background-color: orange;}
-.button4 button{
-        border-radius:5px;
-        color: white;
-        background-color: green;     
+    background-color: orange;
 }
